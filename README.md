@@ -6,7 +6,7 @@
   
  ` -(void)timerStop`   
  
- 
+ ![](https://github.com/MoonSoilWJ/DWJLoopScrollView/blob/master/无限轮播示例.gif)
  
  
  ---
